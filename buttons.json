@@ -1,0 +1,7 @@
+{
+  buttons: [
+      { id: 'primary-btn', text: 'Primary button' },
+      { id: 'secondary-btn', text: 'Secondary button' },
+      { id: 'navbar-btn', text: 'Navbar button' }
+  ]
+}
