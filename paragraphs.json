@@ -1,0 +1,12 @@
+{
+  "paragraphs": [
+     {        
+         title: "Paragraph",
+         text: "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut nec turpis tristique, egestas lacus at, cursus arcu"
+    },
+    {
+        title: "Paragraph (small)",
+        text: "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut nec turpis tristique, egestas lacus at, cursus arcu"
+     }
+  ]
+}
