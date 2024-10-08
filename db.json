@@ -1,0 +1,62 @@
+{
+    "headers": [
+        {
+            "title": "Home heading",
+            "sizes": [
+                "Heading 1",
+                "Heading 2",
+                "Heading 3",
+                "Heading 4",
+                "Heading 5",
+                "Heading 6"
+            ]
+        },
+        {
+            "title": "Aa",
+            "sizes": [
+                "Aa",
+                "Aa",
+                "Aa",
+                "Aa",
+                "Aa",
+                "Aa"
+            ]
+        },
+        {
+            "title": "64px",
+            "sizes": [
+                "56px",
+                "48px",
+                "28px",
+                "20px",
+                "14px",
+                "12px"
+            ]
+        }
+    ],
+  "paragraphs": [
+      {
+          title: "Paragraph",
+          text: "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut nec turpis tristique, egestas lacus at, cursus arcu"
+      },
+      {
+          title: "Paragraph (small)",
+          text: "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut nec turpis tristique, egestas lacus at, cursus arcu"
+      }
+  ],
+  "colors": [
+      "#70c174",
+      "#bef3c0",
+      "#eff7f2",
+      "#0b0706",
+      "#1d2130",
+      "#525560",
+      "#ebf0f9",
+      "#e5e5e5"
+  ],
+  "buttons": [
+      { id: 'primary-btn', text: 'Primary button' },
+      { id: 'secondary-btn', text: 'Secondary button' },
+      { id: 'navbar-btn', text: 'Navbar button' }
+  ]
+}
